@@ -6,4 +6,5 @@ for the back end of the web application, while for the front end JSP pages were 
 
 
 Developed using the Spring Suite Tool (STS) IDE.
+
 The MVC architectural pattern was used to develop the web application.

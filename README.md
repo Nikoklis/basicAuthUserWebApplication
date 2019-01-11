@@ -5,5 +5,5 @@ Technologies used primarly was Java and Spring MVC, Spring Data with JPA ( hiber
 for the back end of the web application, while for the front end JSP pages were used.
 
 
-
+Developed using the Spring Suite Tool (STS) IDE.
 The MVC architectural pattern was used to develop the web application.
